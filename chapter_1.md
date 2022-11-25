@@ -68,3 +68,7 @@ Now that you've successfully installed the fundamental tools for data science in
 ```
 pip freeze > requirements.txt
 ```
+this saves all of the packages and their version numbers so that the environment can easily be recreated using 
+```
+pip install -r requirements.txt
+```
