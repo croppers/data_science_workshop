@@ -72,4 +72,4 @@ this saves all of the packages and their version numbers so that the environment
 ```
 pip install -r requirements.txt
 ```
-Congratulations--you are now ready to go!
+Congratulations--you are now ready to go! 🎉
